@@ -8,6 +8,5 @@ const paths = [
   './assets/youtube-icon.png'
 ];
 
-const altIcon = './assets/contact-icon.png';
 
 sophosContactIcon.iconRoutes = paths;
